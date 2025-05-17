@@ -47,9 +47,7 @@
 
 ---
 Ref. 참조사이트
+- [JS Tutorial in W3schools](https://www.w3schools.com/js/default.asp)
 - [Inflearn](https://www.inflearn.com/roadmaps/37)
 - [Codeit](https://www.codeit.kr/paths/intro-to-programming-in-javascript) 🚀
-
-
-
 
