@@ -23,15 +23,15 @@
 
 2. ES6+ 문법 익히기
 > - 화살표 함수, 템플릿 리터럴, 구조 분해 할당, 스프레드 연산자
-> - async/await, Promise, Map, Set
+> - `async/await`, `Promise`, `Map`, `Set`
 
 3. DOM 조작 및 이벤트 핸들링
 > - HTML 요소 선택 및 변경
 > - 이벤트 리스너 활용
 
 4. 비동기 프로그래밍
-> - fetch API, Axios를 활용한 데이터 통신
-> - Promise, async/await 개념 익히기
+> - `fetch API`, `Axios`를 활용한 데이터 통신
+> - `Promise`, `async/await` 개념 익히기
 
 5. 프레임워크 및 라이브러리 학습
 > - React, Vue, Angular 중 하나 선택하여 학습
